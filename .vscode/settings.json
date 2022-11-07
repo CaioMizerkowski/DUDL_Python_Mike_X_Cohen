@@ -1,0 +1,8 @@
+{
+  "ipynb.experimental.pasteImages.enabled": true,
+  "jupyter.generateSVGPlots": false,
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.inlayHints.functionReturnTypes": false,
+  "python.analysis.inlayHints.variableTypes": false,
+  "jupyter.addGotoCodeLenses": true
+}
